@@ -5382,3 +5382,17 @@ header.header.header-static {
     color: black !important;
     background-color: white !important;
   }
+
+  div.header-search-form{
+    width: 100%;
+  }
+
+  div.header-search-form form button{
+    position: absolute;
+    right: 0;
+  }
+
+
+  .gilbard-login form input {
+    border-radius: 0 !important;
+  }
